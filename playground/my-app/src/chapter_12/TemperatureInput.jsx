@@ -1,6 +1,6 @@
 const scaleNames = {
-  c: "섭씨",
-  f: "화씨",
+  c: '섭씨',
+  f: '화씨',
 };
 
 function TemperatureInput(props) {
